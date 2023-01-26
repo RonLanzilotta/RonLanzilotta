@@ -30,5 +30,3 @@
 ...... 3. The United Nations' volunteer symphony orchestra with members from +26 countries<br>
 <br>
 .... Get in touch to find out which is a lie!
-  
--->
