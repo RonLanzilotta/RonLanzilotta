@@ -1,32 +1,40 @@
 ### Howdy 🤠
 
 
-- 🔭 I’m currently working on -
-.... Completing a Software Engineering Immersive bootcamp at General Assembly
+🔭 I’m currently working on -
+__ A full-stack Instagram clone for practice (Python, Django, Django Rest Framework, React, JavaScript, HTML, CSS, Node.js......)
+__ Internal inventory-tracker for [The Great Frog](https://www.thegreatfroglondon.com/us/)'s new international luxury sunglass launch.
+__ An app-based tool for wedding bands to queue set lists, see related songs, reference tempos and keys.
+__ Simple React app portfolios for my fellow musicians and artists, sliding scale rate.
 <br>
 
-- 🌱 I’m currently learning -
-.... Python, SQL, React, Flask, Ruby on Rails, and more
+🌱 I’m currently learning -
+__ Typescript, Snowflake, PHP .....
 <br>
 
-- 👯 I’m looking to collaborate on -
-.... freelance projects, Leetcode exercises,  networking opportunities
+📫 How to reach me: -
+__ rLanzilotta1010@gmail.com
 <br>
 
-- 📫 How to reach me: -
-.... rLanzilotta1010@gmail.com
-<br>
-
-- 😄 Pronouns: -
-.... he/him
-<br>
+Check out my [resume](https://docs.google.com/document/d/e/2PACX-1vRT8SxlHAfXrwGNfFFXhIm9fc09a_5Y2IXP82QcCA0Y1toJ33DadLua6v_g8xY7RgtbLJm029xu0uTd/pub) for more on my work experience.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
 ⚡ 2 truths and a lie ⚡
 <br>
-.... I currently play bass guitar in these three musical projects:
+__ I currently play bass guitar in these three musical projects:
 <br>
-...... 1. A fully costumed medieval-fantasy doom metal band.<br>
-...... 2. A Sudanese afro-pop project that is a former labelmate of [LCD Soundsystem](https://en.wikipedia.org/wiki/LCD_Soundsystem)<br>
-...... 3. The United Nations' volunteer symphony orchestra with members from +26 countries<br>
+__ 1. A fully costumed medieval-fantasy doom metal band.<br>
+__ 2. A Sudanese afro-pop project that is a former labelmate of [LCD Soundsystem](https://en.wikipedia.org/wiki/LCD_Soundsystem)<br>
+__ 3. The United Nations' volunteer symphony orchestra with members from +26 countries<br>
 <br>
-.... Get in touch to find out which is a lie!
+__ Get in touch to find out which is a lie!
