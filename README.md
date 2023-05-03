@@ -2,12 +2,13 @@
 
 
 🔭 I’m currently working on -
-__ A full-stack Instagram clone for practice (Python, Django, Django Rest Framework, React, JavaScript, HTML, CSS, Node.js......)
-__ Internal inventory-tracker for [The Great Frog](https://www.thegreatfroglondon.com/us/)'s new international luxury sunglass launch.
-__ An app-based tool for wedding bands to queue set lists, see related songs, reference tempos and keys.
-__ Simple React app portfolios for my fellow musicians and artists, sliding scale rate.
 <br>
-
+__ A full-stack app called Alike to showcase my peers' technical projects in a social media setting   (Python, Django, React, JavaScript, HTML, CSS, Node.js......) <br>
+__ Internal CRM tool for [The Great Frog](https://www.thegreatfroglondon.com/us/)'s to help with order tracking. <br>
+__ An app-based tool for wedding bands to queue set lists, see related songs, reference tempos and keys. <br>
+__ Simple React app portfolios for my fellow musicians and artists, sliding scale rate. <br>
+<br>
+<br>
 🌱 I’m currently learning -
 __ Typescript, Snowflake, PHP .....
 <br>
